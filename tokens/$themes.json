@@ -544,7 +544,7 @@
             "$value": {
               "fontFamily": "Raleway",
               "fontWeight": "Regular",
-              "fontSize": "34",
+              "fontSize": "32",
               "lineHeight": "120%",
               "paragraphSpacing": "24"
             }
