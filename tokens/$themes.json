@@ -1,0 +1,942 @@
+{
+  "palette-light": {
+    "shade": {
+      "blue": {
+        "100": {
+          "$type": "color",
+          "$value": "#C9E8FF"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "#84CBFF"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "#35AAFF"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "#0390F7"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#0079D0"
+        }
+      },
+      "purple": {
+        "100": {
+          "$type": "color",
+          "$value": "#E7D6FE"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "#CEB4FF"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "#9E7AFD"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "#9000FF"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#6D04D9"
+        }
+      },
+      "red": {
+        "100": {
+          "$type": "color",
+          "$value": "#FCCAD2"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "#FA95A5"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "#FC5974"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "#F62B50"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#CE0B2F"
+        }
+      },
+      "green": {
+        "100": {
+          "$type": "color",
+          "$value": "#CBF0D3"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "#96E2A6"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "#64D47B"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "#2DC54E"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#239B3E"
+        }
+      },
+      "yellow": {
+        "100": {
+          "$type": "color",
+          "$value": "#FEF6D9"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "#FDEAAA"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "#FAD85D"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "#F9C920"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#F1C013"
+        }
+      }
+    },
+    "background": {
+      "primary": {
+        "$type": "color",
+        "$value": "#FFFFFF"
+      },
+      "primary-reversed": {
+        "$type": "color",
+        "$value": "#21323F"
+      },
+      "01": {
+        "$type": "color",
+        "$value": "#F3F6F8"
+      },
+      "02": {
+        "$type": "color",
+        "$value": "#E3EAEF"
+      },
+      "03": {
+        "$type": "color",
+        "$value": "#BECCD7"
+      },
+      "04": {
+        "$type": "color",
+        "$value": "#87A0B4"
+      },
+      "05": {
+        "$type": "color",
+        "$value": "#56758D"
+      },
+      "disabled": {
+        "$type": "color",
+        "$value": "#BCCEDB"
+      },
+      "positive": {
+        "$type": "color",
+        "$value": "#CAF0D2"
+      },
+      "warning": {
+        "$type": "color",
+        "$value": "#FDE6A4"
+      },
+      "negative": {
+        "$type": "color",
+        "$value": "#FCD0D8"
+      },
+      "info": {
+        "$type": "color",
+        "$value": "#CCE9FF"
+      },
+      "always-destructive": {
+        "$type": "color",
+        "$value": "#D61C28"
+      },
+      "always-destructive-hover": {
+        "$type": "color",
+        "$value": "#E32935"
+      },
+      "nowosc": {
+        "$type": "color",
+        "$value": "#96E2A6"
+      },
+      "ostatnie-sztuki": {
+        "$type": "color",
+        "$value": "#FCE48F"
+      },
+      "promocja": {
+        "$type": "color",
+        "$value": "#FA95A7"
+      }
+    },
+    "content": {
+      "imad-apple-logos": {
+        "$type": "color",
+        "$value": "#000000"
+      },
+      "primary": {
+        "$type": "color",
+        "$value": "#21323F"
+      },
+      "primary-reversed": {
+        "$type": "color",
+        "$value": "#FFFFFF"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "#446782"
+      },
+      "border-01": {
+        "$type": "color",
+        "$value": "#E5EDF2"
+      },
+      "border-02": {
+        "$type": "color",
+        "$value": "#D7E3EB"
+      },
+      "border-03": {
+        "$type": "color",
+        "$value": "#B9C8D2"
+      },
+      "border-04": {
+        "$type": "color",
+        "$value": "#7F95A7"
+      },
+      "positive": {
+        "$type": "color",
+        "$value": "#05731E"
+      },
+      "warning": {
+        "$type": "color",
+        "$value": "#DC5814"
+      },
+      "negative": {
+        "$type": "color",
+        "$value": "#D9202D"
+      },
+      "negative-hover": {
+        "$type": "color",
+        "$value": "#E12F3B"
+      },
+      "disabled": {
+        "$type": "color",
+        "$value": "#A7B9C5"
+      }
+    },
+    "other": {
+      "care": {
+        "$type": "color",
+        "$value": "#F62B50"
+      },
+      "service": {
+        "$type": "color",
+        "$value": "#F9C920"
+      },
+      "rent": {
+        "$type": "color",
+        "$value": "#35AAFF"
+      },
+      "trade": {
+        "$type": "color",
+        "$value": "#2DC54E"
+      },
+      "fleet-management": {
+        "$type": "color",
+        "$value": "#9000FF"
+      },
+      "always-white": {
+        "$type": "color",
+        "$value": "#FFFFFF"
+      },
+      "always-black": {
+        "$type": "color",
+        "$value": "#21323F"
+      }
+    }
+  },
+  "palette-dark": {
+    "shade": {
+      "blue": {
+        "100": {
+          "$type": "color",
+          "$value": "#115791"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "#1269B0"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "#0079D3"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "#0390F7"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#25A6FB"
+        }
+      },
+      "purple": {
+        "100": {
+          "$type": "color",
+          "$value": "#5E1CA9"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "#6C0DC6"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "#8107E5"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "#9000FF"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#9942FB"
+        }
+      },
+      "red": {
+        "100": {
+          "$type": "color",
+          "$value": "#9B2844"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "#BA2948"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "#D62345"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "#F62B50"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#FE4365"
+        }
+      },
+      "green": {
+        "100": {
+          "$type": "color",
+          "$value": "#265D44"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "#267646"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "#31A351"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "#2DC54E"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#41D962"
+        }
+      },
+      "yellow": {
+        "100": {
+          "$type": "color",
+          "$value": "#9D6915"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "#C08723"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "#D8A218"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "#F9C920"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#FFDD34"
+        }
+      }
+    },
+    "background": {
+      "primary": {
+        "$type": "color",
+        "$value": "#21323F"
+      },
+      "primary-reversed": {
+        "$type": "color",
+        "$value": "#FFFFFF"
+      },
+      "01": {
+        "$type": "color",
+        "$value": "#324555"
+      },
+      "02": {
+        "$type": "color",
+        "$value": "#3C5262"
+      },
+      "03": {
+        "$type": "color",
+        "$value": "#526A7C"
+      },
+      "04": {
+        "$type": "color",
+        "$value": "#7691A1"
+      },
+      "05": {
+        "$type": "color",
+        "$value": "#A3B9C7"
+      },
+      "disabled": {
+        "$type": "color",
+        "$value": "#465866"
+      },
+      "positive": {
+        "$type": "color",
+        "$value": "#23863F"
+      },
+      "warning": {
+        "$type": "color",
+        "$value": "#BD581C"
+      },
+      "negative": {
+        "$type": "color",
+        "$value": "#D62940"
+      },
+      "info": {
+        "$type": "color",
+        "$value": "#0372C1"
+      },
+      "always-destructive": {
+        "$type": "color",
+        "$value": "#D61C28"
+      },
+      "always-destructive-hover": {
+        "$type": "color",
+        "$value": "#E32935"
+      },
+      "nowosc": {
+        "$type": "color",
+        "$value": "#96E2A6"
+      },
+      "ostatnie-sztuki": {
+        "$type": "color",
+        "$value": "#FCE48F"
+      },
+      "promocja": {
+        "$type": "color",
+        "$value": "#FA95A7"
+      }
+    },
+    "content": {
+      "imad-apple-logos": {
+        "$type": "color",
+        "$value": "#FFFFFF"
+      },
+      "primary": {
+        "$type": "color",
+        "$value": "#FFFFFF"
+      },
+      "primary-reversed": {
+        "$type": "color",
+        "$value": "#21323F"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "#B8CBD8"
+      },
+      "border-01": {
+        "$type": "color",
+        "$value": "#455663"
+      },
+      "border-02": {
+        "$type": "color",
+        "$value": "#657683"
+      },
+      "border-03": {
+        "$type": "color",
+        "$value": "#99AAB7"
+      },
+      "border-04": {
+        "$type": "color",
+        "$value": "#B7C8D5"
+      },
+      "positive": {
+        "$type": "color",
+        "$value": "#4CAC61"
+      },
+      "warning": {
+        "$type": "color",
+        "$value": "#F2B713"
+      },
+      "negative": {
+        "$type": "color",
+        "$value": "#FF7676"
+      },
+      "negative-hover": {
+        "$type": "color",
+        "$value": "#F95251"
+      },
+      "disabled": {
+        "$type": "color",
+        "$value": "#506270"
+      }
+    },
+    "other": {
+      "care": {
+        "$type": "color",
+        "$value": "#F62B50"
+      },
+      "service": {
+        "$type": "color",
+        "$value": "#F9C920"
+      },
+      "rent": {
+        "$type": "color",
+        "$value": "#35AAFF"
+      },
+      "trade": {
+        "$type": "color",
+        "$value": "#2DC54E"
+      },
+      "fleet-management": {
+        "$type": "color",
+        "$value": "#9000FF"
+      },
+      "always-white": {
+        "$type": "color",
+        "$value": "#FFFFFF"
+      },
+      "always-black": {
+        "$type": "color",
+        "$value": "#21323F"
+      }
+    }
+  },
+  "typography": {
+    "heading": {
+      "h-01": {
+        "desktop": {
+          "regular": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "Raleway",
+              "fontWeight": "Regular",
+              "fontSize": "32",
+              "lineHeight": "120%",
+              "paragraphSpacing": "24"
+            }
+          },
+          "bold": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "Raleway",
+              "fontWeight": "Bold",
+              "fontSize": "32",
+              "lineHeight": "120%",
+              "paragraphSpacing": "24"
+            }
+          },
+          "bold-italic": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "Raleway",
+              "fontWeight": "SemiBold Italic",
+              "fontSize": "32",
+              "lineHeight": "120%",
+              "paragraphSpacing": "24"
+            }
+          }
+        },
+        "tablet": {
+          "regular": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "Raleway",
+              "fontWeight": "Regular",
+              "fontSize": "32",
+              "lineHeight": "120%",
+              "paragraphSpacing": "24"
+            }
+          },
+          "bold": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "Raleway",
+              "fontWeight": "SemiBold",
+              "fontSize": "32",
+              "lineHeight": "120%",
+              "paragraphSpacing": "24"
+            }
+          },
+          "bold-italic": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "Raleway",
+              "fontWeight": "SemiBold Italic",
+              "fontSize": "32",
+              "lineHeight": "120%",
+              "paragraphSpacing": "24"
+            }
+          }
+        },
+        "mobile": {
+          "regular": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "Raleway",
+              "fontWeight": "Regular",
+              "fontSize": "30",
+              "lineHeight": "120%",
+              "paragraphSpacing": "24"
+            }
+          },
+          "bold": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "Raleway",
+              "fontWeight": "SemiBold",
+              "fontSize": "30",
+              "lineHeight": "120%",
+              "paragraphSpacing": "24"
+            }
+          },
+          "bold-italic": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "Raleway",
+              "fontWeight": "SemiBold Italic",
+              "fontSize": "30",
+              "lineHeight": "120%",
+              "paragraphSpacing": "24"
+            }
+          }
+        }
+      },
+      "h-02": {
+        "desktop": {
+          "regular": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "Raleway",
+              "fontWeight": "Regular",
+              "fontSize": "28",
+              "lineHeight": "120%",
+              "paragraphSpacing": "24"
+            }
+          },
+          "bold": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "Raleway",
+              "fontWeight": "Bold",
+              "fontSize": "28",
+              "lineHeight": "120%",
+              "paragraphSpacing": "24"
+            }
+          },
+          "bold-italic": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "Raleway",
+              "fontWeight": "SemiBold Italic",
+              "fontSize": "28",
+              "lineHeight": "120%",
+              "paragraphSpacing": "24"
+            }
+          }
+        },
+        "tablet": {
+          "regular": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "Raleway",
+              "fontWeight": "Regular",
+              "fontSize": "26",
+              "lineHeight": "120%",
+              "paragraphSpacing": "24"
+            }
+          },
+          "bold": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "Raleway",
+              "fontWeight": "SemiBold",
+              "fontSize": "30",
+              "lineHeight": "120%",
+              "paragraphSpacing": "24"
+            }
+          },
+          "bold-italic": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "Raleway",
+              "fontWeight": "SemiBold Italic",
+              "fontSize": "30",
+              "lineHeight": "120%",
+              "paragraphSpacing": "24"
+            }
+          }
+        },
+        "mobile": {
+          "regular": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "Raleway",
+              "fontWeight": "Regular",
+              "fontSize": "24",
+              "lineHeight": "120%",
+              "paragraphSpacing": "24"
+            }
+          },
+          "bold": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "Raleway",
+              "fontWeight": "SemiBold",
+              "fontSize": "24",
+              "lineHeight": "120%",
+              "paragraphSpacing": "24"
+            }
+          },
+          "bold-italic": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "Raleway",
+              "fontWeight": "SemiBold Italic",
+              "fontSize": "24",
+              "lineHeight": "120%",
+              "paragraphSpacing": "24"
+            }
+          }
+        }
+      },
+      "h-03": {
+        "desktop": {
+          "regular": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "Raleway",
+              "fontWeight": "Regular",
+              "fontSize": "24",
+              "lineHeight": "120%",
+              "paragraphSpacing": "24"
+            }
+          },
+          "bold": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "Raleway",
+              "fontWeight": "Bold",
+              "fontSize": "24",
+              "lineHeight": "120%",
+              "paragraphSpacing": "24"
+            }
+          },
+          "bold-italic": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "Raleway",
+              "fontWeight": "SemiBold Italic",
+              "fontSize": "24",
+              "lineHeight": "120%",
+              "paragraphSpacing": "24"
+            }
+          }
+        },
+        "tablet": {
+          "regular": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "Raleway",
+              "fontWeight": "Regular",
+              "fontSize": "20",
+              "lineHeight": "120%",
+              "paragraphSpacing": "24"
+            }
+          },
+          "bold": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "Raleway",
+              "fontWeight": "SemiBold",
+              "fontSize": "20",
+              "lineHeight": "120%",
+              "paragraphSpacing": "24"
+            }
+          },
+          "bold-italic": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "Raleway",
+              "fontWeight": "SemiBold Italic",
+              "fontSize": "20",
+              "lineHeight": "120%",
+              "paragraphSpacing": "24"
+            }
+          }
+        },
+        "mobile": {
+          "regular": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "Raleway",
+              "fontWeight": "Regular",
+              "fontSize": "20",
+              "lineHeight": "120%",
+              "paragraphSpacing": "24"
+            }
+          },
+          "bold": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "Raleway",
+              "fontWeight": "SemiBold",
+              "fontSize": "24",
+              "lineHeight": "120%",
+              "paragraphSpacing": "20"
+            }
+          },
+          "bold-italic": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "Raleway",
+              "fontWeight": "SemiBold Italic",
+              "fontSize": "20",
+              "lineHeight": "120%",
+              "paragraphSpacing": "24"
+            }
+          }
+        }
+      },
+      "h-04": {
+        "desktop": {
+          "regular": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "Raleway",
+              "fontWeight": "Regular",
+              "fontSize": "20",
+              "lineHeight": "120%",
+              "paragraphSpacing": "24"
+            }
+          },
+          "bold": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "Raleway",
+              "fontWeight": "Bold",
+              "fontSize": "20",
+              "lineHeight": "120%",
+              "paragraphSpacing": "24"
+            }
+          },
+          "bold-italic": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "Raleway",
+              "fontWeight": "SemiBold Italic",
+              "fontSize": "20",
+              "lineHeight": "120%",
+              "paragraphSpacing": "24"
+            }
+          }
+        },
+        "tablet": {
+          "regular": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "Raleway",
+              "fontWeight": "Regular",
+              "fontSize": "16",
+              "lineHeight": "120%",
+              "paragraphSpacing": "24"
+            }
+          },
+          "bold": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "Raleway",
+              "fontWeight": "SemiBold",
+              "fontSize": "16",
+              "lineHeight": "120%",
+              "paragraphSpacing": "24"
+            }
+          },
+          "bold-italic": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "Raleway",
+              "fontWeight": "SemiBold Italic",
+              "fontSize": "16",
+              "lineHeight": "120%",
+              "paragraphSpacing": "24"
+            }
+          }
+        },
+        "mobile": {
+          "regular": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "Raleway",
+              "fontWeight": "Regular",
+              "fontSize": "16",
+              "lineHeight": "120%",
+              "paragraphSpacing": "24"
+            }
+          },
+          "bold": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "Raleway",
+              "fontWeight": "SemiBold",
+              "fontSize": "16",
+              "lineHeight": "120%",
+              "paragraphSpacing": "20"
+            }
+          },
+          "bold-italic": {
+            "$type": "typography",
+            "$value": {
+              "fontFamily": "Raleway",
+              "fontWeight": "SemiBold Italic",
+              "fontSize": "16",
+              "lineHeight": "120%",
+              "paragraphSpacing": "24"
+            }
+          }
+        }
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "palette-light",
+      "palette-dark",
+      "typography"
+    ]
+  }
+}
